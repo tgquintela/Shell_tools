@@ -1,0 +1,2 @@
+
+sed " " tags | sort -u >> tags2
