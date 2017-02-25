@@ -1,0 +1,7 @@
+ {
+    "ip_controller": {
+        "last_ip": "0.0.0.0",
+        "email": "",
+        "subject": "New IP"
+                     }
+ }
